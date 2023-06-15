@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhamkks1005/shubhamkks1005/blob/main/7j8s2h4erdejm82dyyn7.webp)
+ <img class="center" alt="coding"  width="1000" height="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png">
 <h1 align="center">Hi 👋, I'm shubham kumar kushwaha</h1>
 <h3 align="center">backend developer</h3>
   <img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
