@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shubham kumar kushwaha</h1>
 <h3 align="center">backend developer</h3>
-  <img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+  <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 - 📫 How to reach me **shubhamkks1005@gmail.com**
 
 - ⚡ Fun fact **I think i am funny.**
