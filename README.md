@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm shubham kumar kushwaha</h1>
 <h3 align="center">backend developer</h3>
-<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+  <img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+- 📫 How to reach me **shubhamkks1005@gmail.com**
+
+- ⚡ Fun fact **I think i am funny.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-kushwaha-411207186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-kushwaha-411207186" height="30" width="40" /></a>
