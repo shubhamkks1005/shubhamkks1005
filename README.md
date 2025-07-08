@@ -5,12 +5,12 @@
 
 
 
-<h3 align="left">👨🏻‍💻languages:</h3>
+<h3 align="left">🛡️languages:🛡️</h3>
 <h5 align="left">C || C++ || JAVASCRIPT || CSS || HTML </h5>
-<h3 align="left">🛠️ Technical Skills:</h3>
-<p><b><u>Frontend:</u></b> React.js, HTML5, CSS3, JavaScript (ES6+)</p>
-<p><b><u>Backend:</u></b>Node.js, Express.js</b>
-<p><b><u>Database:</u></b> MongoDB</p>
-<p><b><u>Tools & Platforms:</u></b> Git, GitHub, Postman, REST APIs</p>
+<h3 align="left">🛡️Technical Skills:🛡️</h3>
+<p><b><u>🟡Frontend:</u></b> React.js, HTML5, CSS3, JavaScript (ES6+)</p>
+<p><b><u>🟡Backend:</u></b>Node.js, Express.js</b>
+<p><b><u>🟡Database:</u></b> MongoDB</p>
+<p><b><u>🟡Tools & Platforms:</u></b> Git, GitHub, Postman, REST APIs</p>
 
  
