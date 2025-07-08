@@ -4,7 +4,7 @@
   <img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 - 📫 How to reach me **shubhamkks1005@gmail.com**
 
-- ⚡ Fun fact **I think i am funny.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
