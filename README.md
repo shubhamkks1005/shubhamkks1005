@@ -1,5 +1,5 @@
- <img class="center" alt="coding"  width="1000" height="160" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">
-<h3 align="center">MERN stack developer</h3>
+ <img class="center" alt="coding"  width="1000" height="0" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">
+<h1 align="center">MERN stack developer</h1>
   <img align="right" alt="coding" width="280" src="https://rifadul-islam.vercel.app/_next/image?url=%2Fcoding.gif&w=1080&q=75">
 
 
