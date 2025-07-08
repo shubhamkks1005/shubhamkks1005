@@ -6,12 +6,11 @@
 
 
 <h3 align="left">👨🏻‍💻languages:</h3>
-<h5 align="left">C || c++ || JAVASCRIPT || CSS || HTML </h5>
+<h5 align="left">C || C++ || JAVASCRIPT || CSS || HTML </h5>
 <h3 align="left">🛠️ Technical Skills:</h3>
 <p><b>Frontend:</b> React.js, HTML5, CSS3, JavaScript (ES6+)</p>
 <p><b>Backend:</b>Node.js, Express.js</b>
 <p><b> Database:</b> MongoDB</p>
 <p><b>Tools & Platforms:</b> Git, GitHub, Postman, REST APIs</p>
-<p><b>Full Stack:</b> MERN Stack (MongoDB, Express.js, React.js, Node.js)</p>
 
- 📫 How to reach me <b>shubhamkks1005@gmail.com</b>
+ 
