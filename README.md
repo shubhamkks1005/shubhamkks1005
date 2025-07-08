@@ -1,8 +1,8 @@
  <img class="center" alt="coding"  width="1000" height="160" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">
-<h2 align="center">Hi 👋, I'm shubham kumar kushwaha</h2>
-<h3 align="center">MERN stack developer</h3>
-  <img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-- 📫 How to reach me <b>shubhamkks1005@gmail.com</b>
+<h2 align="center">MERN stack developer</h2>
+<!-- <h3 align="center">MERN stack developer</h3> -->
+  <img align="right" alt="coding" width="280" src="https://rifadul-islam.vercel.app/_next/image?url=%2Fcoding.gif&w=1080&q=75">
+
 
 
 
@@ -15,3 +15,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+ 📫 How to reach me <b>shubhamkks1005@gmail.com</b>
