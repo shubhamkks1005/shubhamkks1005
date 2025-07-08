@@ -1,4 +1,4 @@
- <img class="center" alt="coding"  width="1000" height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png">
+ <img class="center" alt="coding"  width="1000" height="160" src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg">
 <h2 align="center">Hi 👋, I'm shubham kumar kushwaha</h2>
 <h3 align="center">MERN stack developer</h3>
   <img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
